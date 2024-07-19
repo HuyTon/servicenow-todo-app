@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request a new To Do Project">3cd1bcd883e74e10e528ffefeeaad333</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 02:45:11</sys_created_on>
+        <sys_id>f4c6f010836b4e10e528ffefeeaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a new To Do Project.Any User</sys_name>
+        <sys_package display_value="To Do" source="x_1468944_to_do">ee3340b78357c210e528ffefeeaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ee3340b78357c210e528ffefeeaad365</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_f4c6f010836b4e10e528ffefeeaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 02:45:11</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

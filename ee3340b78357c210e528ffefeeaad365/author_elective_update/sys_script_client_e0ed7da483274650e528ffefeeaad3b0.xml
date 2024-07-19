@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Todo onLoad 2</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   console.log("onLoad script triggered");
+   alert("Hello To do App!");
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 02:35:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0ed7da483274650e528ffefeeaad3b0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Todo onLoad 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1468944_to_do">ee3340b78357c210e528ffefeeaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ee3340b78357c210e528ffefeeaad365</sys_scope>
+        <sys_update_name>sys_script_client_e0ed7da483274650e528ffefeeaad3b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 02:43:11</sys_updated_on>
+        <table>x_1468944_to_do_to_do</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">ee3340b78357c210e528ffefeeaad365</application>
+        <file_path/>
+        <instance_id>aa42ddd5ebc30690cbdefceacad0cd11</instance_id>
+        <instance_name>dev278450</instance_name>
+        <name>sys_script_client_e0ed7da483274650e528ffefeeaad3b0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Todo onLoad 2&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   console.log("onLoad script triggered");
+   alert("Hello To do App!");
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-19 02:35:09&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e0ed7da483274650e528ffefeeaad3b0&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Todo onLoad 2&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="To Do" source="x_1468944_to_do"&gt;ee3340b78357c210e528ffefeeaad365&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="To Do"&gt;ee3340b78357c210e528ffefeeaad365&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_e0ed7da483274650e528ffefeeaad3b0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-19 02:43:11&lt;/sys_updated_on&gt;&lt;table&gt;x_1468944_to_do_to_do&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-256126555</payload_hash>
+        <record_name>Todo onLoad 2</record_name>
+        <reverted_from/>
+        <source>f23380b78357c210e528ffefeeaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 02:43:11</sys_created_on>
+        <sys_id>d1ef79e883674650e528ffefeeaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c8df3b8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 02:43:11</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>99ef79e8556746503a1586bb3a272c1e</update_guid>
+        <update_guid_history>99ef79e8556746503a1586bb3a272c1e:-256126555,092f39e8376746506ac40cd9df6475db:-1081665573,ab0e312c32274650822f1fd65e9134d4:-394080237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 03:35:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>0d0106c993af41d690e92697667571a4</sys_id>
+        <sys_metadata>e0ed7da483274650e528ffefeeaad3b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Todo onLoad 2</sys_name>
+        <sys_package display_value="To Do" source="x_1468944_to_do">ee3340b78357c210e528ffefeeaad365</sys_package>
+        <sys_parent display_value="To Do To Do">5ab3060c83ef4a10e528ffefeeaad3d3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ee3340b78357c210e528ffefeeaad365</sys_scope>
+        <sys_scope_delete display_value="">3b276b08968746a084fc95ceff7d5690</sys_scope_delete>
+        <sys_update_name>sys_script_client_e0ed7da483274650e528ffefeeaad3b0</sys_update_name>
+        <sys_update_version display_value="sys_script_client_e0ed7da483274650e528ffefeeaad3b0">d1ef79e883674650e528ffefeeaad31f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 03:35:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

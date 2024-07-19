@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2024-07-18 05:44:31</last_registered_on>
+        <send_badge_count>true</send_badge_count>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 05:30:28</sys_created_on>
+        <sys_id>c29c515c83678e10e528ffefeeaad3d2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>A9C0390FF42EC5CC7FADE19068DD1C2171EAC333B55D8410755EEC38D6465CA7</sys_name>
+        <sys_package display_value="To Do" source="x_1468944_to_do">ee3340b78357c210e528ffefeeaad365</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="To Do">ee3340b78357c210e528ffefeeaad365</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_c29c515c83678e10e528ffefeeaad3d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 05:44:31</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>A9C0390FF42EC5CC7FADE19068DD1C2171EAC333B55D8410755EEC38D6465CA7</token>
+    </sys_push_notif_app_install>
+</record_update>

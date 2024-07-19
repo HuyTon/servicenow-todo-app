@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 05:41:22</sys_created_on>
+        <sys_id>e91fd15883e78e10e528ffefeeaad324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="To Do" source="x_1468944_to_do">ee3340b78357c210e528ffefeeaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">ee3340b78357c210e528ffefeeaad365</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_e91fd15883e78e10e528ffefeeaad324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 05:41:22</sys_updated_on>
+        <translated_value/>
+        <value>to_do_item</value>
+        <view_config_element display_value="to_do_item-FieldValue">691fd15883e78e10e528ffefeeaad321</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=e91fd15883e78e10e528ffefeeaad324"/>
+</record_update>
